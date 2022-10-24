@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spazztula
-- 👀 I’m interested in coffee,frontend design, HTML5 & CSS3
+- 👀 I’m interested in frontend design, HTML5 & CSS3 + coffee
 
 <!---
 spazztula/spazztula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
